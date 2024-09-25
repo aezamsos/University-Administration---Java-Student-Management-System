@@ -69,6 +69,11 @@ MODIFY ( <br>
 
 5. Configure your JDBC connection in the Java project with the appropriate URL, username, and password.
 
+
+## Application Preview
+![KUCE Image](kuce.jpg)
+
+
 #How to Use
 1. Run the Project: You can run the project by executing the UniversityCollege.java file.
 
@@ -82,6 +87,7 @@ MODIFY ( <br>
 Main Classes:
 
 UniversityCollege.java: The entry point of the application. It handles the graphical user interface and interaction with the Oracle database.
+
 
 DatabaseConnection.java: This class manages the connection to the Oracle database using JDBC.
 
