@@ -1,7 +1,0 @@
-SQL> SELECT * FROM students;
-
-HALL_TICKET_NO  STUDENT_NAME              FATHER_NAME               MOTHER_NAME               DATE_OF_BIRTH  GENDER     CASTE      MOBILE_NO       HOUSE_NO        STREET                                   POST                 VILLAGE              DISTRICT             STATE           PIN                                                                                                                    
---------------- ------------------------- ------------------------- ------------------------- ------------  ---------- ---------- --------------- --------------- ---------------------------------------- -------------------- -------------------- -------------------- --------------- ----------                                                                                                             
-225670961L      Aazam Shareef             Osman Shareef             Noorie Nisa Begum         09-SEP-01      Male       BC-E       8328476955      25-6-210/B      Near St Anns High School                 Kazipet              Kazipet              Hanumakonda          Telangana       506003                                                                                                                 
-
-SQL> SPOOL OFF

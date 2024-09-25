@@ -1,4 +1,0 @@
-
-HOUSE_NO        STREET                                   POST                 VILLAGE              DISTRICT             STATE           PIN                                                             
---------------- ---------------------------------------- -------------------- -------------------- -------------------- --------------- ----------                                                      
-25-6-210/B      Near St Anns High School                 Kazipet              Kazipet              Hanumakonda          Telangana       506003                                                          
