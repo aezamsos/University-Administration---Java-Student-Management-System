@@ -1,0 +1,5 @@
+
+HALL_TICKET_NO  STUDENT_NAME              FATHER_NAME               MOTHER_NAME               DATE_OF_BIRT GENDER     CASTE      MOBILE_NO                                                              
+--------------- ------------------------- ------------------------- ------------------------- ------------ ---------- ---------- ---------------                                                        
+225670961L      Aazam Shareef             Osman Shareef             Noorie Nisa Begum         09-SEP-01    Male       BC-E       8328476955                                                             
+
