@@ -1,4 +1,10 @@
-# University-Administration--Java-Student-Management-System ![Status](https://img.shields.io/badge/status-completed-brightgreen)
+# University-Administration--Java-Student-Management-System 
+![Status](https://img.shields.io/badge/status-completed-brightgreen) 
+![Version](https://img.shields.io/badge/version-1.0.0-blue) 
+![License](https://img.shields.io/badge/license-MIT-green)
+![Language](https://img.shields.io/badge/language-Java-orange) 
+![Build](https://img.shields.io/badge/build-passing-brightgreen)
+
 The University Administration project is a Java-based student management system designed for college administration. It allows users to manage student data, generate reports, and interact with an Oracle SQL database. Features include adding, deleting, searching, and updating student records, as well as exporting data to Excel.
 
 ## Description
