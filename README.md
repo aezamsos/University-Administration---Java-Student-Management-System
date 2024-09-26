@@ -43,7 +43,7 @@ This project is integrated with an Oracle SQL database for efficient data storag
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/UniversityCollege.git
+   git clone https://github.com/aezamsos/University-Administration---Java-Student-Management-System.git
 2. Open the project in your favorite Java IDE (e.g., IntelliJ IDEA, NetBeans, Eclipse, or Visual Studio Code).
 
 4. Set up your Oracle Database with the necessary student tables. Example SQL script: <br> 
