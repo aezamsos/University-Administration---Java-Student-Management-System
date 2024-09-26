@@ -14,7 +14,7 @@ The University Administration project is a Java-based student management system 
 - [Features](#features)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
-- [Contact](#contact)
+- [Contact](#connectwithme)
 - [Future Work](#future-work)
 - [License](#license)
 
