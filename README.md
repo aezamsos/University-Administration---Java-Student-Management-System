@@ -7,6 +7,17 @@
 
 The University Administration project is a Java-based student management system designed for college administration. It allows users to manage student data, generate reports, and interact with an Oracle SQL database. Features include adding, deleting, searching, and updating student records, as well as exporting data to Excel.
 
+
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Contributing](#contributing)
+- [Contact](#contact)
+- [Future Work](#future-work)
+- [License](#license)
+
 ## Description
 
 University Administration is a Java-based application designed to manage student records for a college or university. The system allows administrators to perform essential functions such as adding, updating, deleting, and searching student records, as well as exporting student data into an Excel format.
