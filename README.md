@@ -101,3 +101,9 @@ ExcelExporter.java: A utility class to handle exporting data to Excel format usi
 
 ## Contributing
 Feel free to contribute to this project by submitting a pull request or opening an issue if you find any bugs or have feature requests.
+
+## Connect with Me
+
+- [LinkedIn Profile](https://www.linkedin.com/in/aazam-shareef-234170171/)
+- Email: aezamsos@gmail.com
+- WhatsApp: +918328476955
